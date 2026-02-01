@@ -140,15 +140,23 @@ This ensures **ethical and realistic model training** without relying on private
 
 ### Screenshots
 
-![IMG_20260113_191604](https://github.com/user-attachments/assets/dc960f6e-7fce-4bd0-ba6d-83c43dee609a)
+- ![WhatsApp Image 2026-02-01 at 3 55 49 PM](https://github.com/user-attachments/assets/3986ac9d-476d-452d-bd3e-7d587d581521)
 
-![IMG_20260113_191551](https://github.com/user-attachments/assets/56fca102-6768-4015-b7e3-3a75cc8fa635)
+- ![WhatsApp Image 2026-02-01 at 3 55 49 PM (1)](https://github.com/user-attachments/assets/3124592f-8401-4a5d-bc6a-069ff3173fc2)
 
-![IMG_20260113_191527](https://github.com/user-attachments/assets/cd52be06-1a37-4e14-ac77-8f3f773a5220)
+- ![WhatsApp Image 2026-02-01 at 3 55 50 PM (1)](https://github.com/user-attachments/assets/41af5400-6f1b-480b-b6ac-8218072ac64d)
+ 
+- ![WhatsApp Image 2026-02-01 at 3 55 50 PM](https://github.com/user-attachments/assets/15e32854-bf96-4834-8cf4-5b1e54d905fe)
 
-![IMG_20260113_191509](https://github.com/user-attachments/assets/2e6d3cf1-ded3-4af8-9986-d1c68fe194dc)
+- ![WhatsApp Image 2026-02-01 at 3 55 51 PM](https://github.com/user-attachments/assets/585e5f18-4d4a-4721-98a3-9d9deaf24659)
 
-![IMG_20260113_191447](https://github.com/user-attachments/assets/b4f49db0-ff91-4d6d-8c8f-02e64844ab44)
+- ![WhatsApp Image 2026-02-01 at 3 55 51 PM (1)](https://github.com/user-attachments/assets/2b96b429-de23-4364-bce6-1af9cf03b250)
+
+- ![WhatsApp Image 2026-02-01 at 3 55 51 PM (2)](https://github.com/user-attachments/assets/89c23c40-5020-4e90-8653-aa978d33deaf)
+
+- ![WhatsApp Image 2026-02-01 at 3 55 52 PM](https://github.com/user-attachments/assets/30de9fe4-ca23-40b9-a6ae-8094de519f92)
+
+- ![WhatsApp Image 2026-02-01 at 3 55 52 PM (1)](https://github.com/user-attachments/assets/328e7493-ec71-4948-9998-f4e073a8b449)
 
 
 ---
