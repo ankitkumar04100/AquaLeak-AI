@@ -12,7 +12,7 @@
 6. [Machine Learning Model](#machine-learning-model)
 7. [Data Strategy](#data-strategy)
 8. [User Interface & Experience](#user-interface--experience)
-9. [App Demo & Screenshots](#app-demo--screenshots)
+9. [App Demo & Screenshots & Video Demo](#app-demo--screenshots--video-demo)
 10. [Demo Instructions](#demo-instructions)
 11. [Challenges Faced](#challenges-faced)
 12. [Accomplishments](#accomplishments)
