@@ -1,0 +1,16 @@
+AquaLeak-AI/
+│
+├── app.py                  # Main Streamlit app for user interface and demo
+├── model/
+│   ├── leak_detection_model.pkl    # Trained Isolation Forest model (saved)
+│   └── train_model.py              # Script to train the model
+├── data/
+│   ├── sample_usage.csv            # Example water usage CSV
+│   └── simulated_data_generator.py # Script to generate simulated datasets
+├── utils/
+│   └── data_preprocessing.py       # Functions for cleaning and normalizing data
+├── requirements.txt               # All Python dependencies
+├── .gitignore                     # Ignore __pycache__, .pkl files, etc.
+├── LICENSE                        # MIT or open-source license
+├── README.md                       # Your full detailed README
+
