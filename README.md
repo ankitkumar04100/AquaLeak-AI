@@ -133,11 +133,11 @@ This ensures **ethical and realistic model training** without relying on private
 
 ## Installation
 
-```bash
+bash
 git clone https://github.com/yourusername/AquaLeak-AI.git
 cd AquaLeak-AI
 pip install -r requirements.txt
-streamlit run app.py```
+streamlit run app.py
 
 ---
 
