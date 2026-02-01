@@ -12,7 +12,7 @@
 6. [Machine Learning Model](#machine-learning-model)
 7. [Data Strategy](#data-strategy)
 8. [User Interface & Experience](#user-interface--experience)
-9. [Installation](#installation)
+9. [App Demo & Screenshots](#app-demo--screenshots)
 10. [Demo Instructions](#demo-instructions)
 11. [Challenges Faced](#challenges-faced)
 12. [Accomplishments](#accomplishments)
@@ -131,13 +131,8 @@ This ensures **ethical and realistic model training** without relying on private
 
 ---
 
-## Installation
+## App Demo & Screenshots
 
-bash
-git clone https://github.com/yourusername/AquaLeak-AI.git
-cd AquaLeak-AI
-pip install -r requirements.txt
-streamlit run app.py
 
 ---
 
