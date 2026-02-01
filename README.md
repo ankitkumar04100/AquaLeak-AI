@@ -135,7 +135,7 @@ This ensures **ethical and realistic model training** without relying on private
 
 ### App Demo
 
-[Aqualyx-AI](https://aqualyxai.lovable.app)
+[AquaLeak-AI](https://aqualeakforall.lovable.app)
 
 
 ### Screenshots
